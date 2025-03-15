@@ -16,7 +16,7 @@ CEOS back-end 21st spring tutorial project
 - 경량(과도한 엔지니어링 없이 단순한 환경에서 사용 가능)
 
 #### Spring Boot vs Spring
-스프링 프레임워크만 사용한다면 개발자는 빈 등록, 컨테이너 구성, 빈 객체 간 의존성을 직접 기술하는 등
+기존에는 다소 복잡했던 스프링 프레임워크의 의존성 설정이나 버전 관리, 빈 등록, 배포 등을 더 쉽게 할 수 있도록 도와주는 프레임워크가 Spring Boot 이다.
 
 ### Spring이 지원하는 기술들
 - IoC/DI
